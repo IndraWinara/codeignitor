@@ -1,1 +1,1 @@
-<div>Home View</div>
+<div>Hellow this is home view</div>
